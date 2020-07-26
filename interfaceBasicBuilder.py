@@ -1,11 +1,10 @@
 #//this code was written in swift
->>> //Lab: User Interface Builder
+//Lab: User Interface Builder
 //the objective of this lab is to use interface builder and the assitance editor to create a basic view,.
 //  ViewController.swift
 //  interfaceBasicBuilderBasics
 //
-//  Created by Francisco Francillon on 7/21/20.
-//  Copyright © 2020 Francisco Francillon. All rights reserved.
+// 
 //
 
 import UIKit
