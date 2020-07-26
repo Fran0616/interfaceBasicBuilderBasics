@@ -1,4 +1,4 @@
-#//this code was written in swift
+#//this code was written with swift not python 
 //Lab: User Interface Builder
 //the objective of this lab is to use interface builder and the assitance editor to create a basic view,.
 //  ViewController.swift
